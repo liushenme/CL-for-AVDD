@@ -7,7 +7,7 @@ pip install -r requirements.txt
 ```
 
 ## Pretrained model
-Our model in  Table III.c 
+Our model in  Table IV.c 
 
 [Pretrained model](https://github.com/liushenme/CL-for-AVDD/blob/main/model_save.ckpt)
 
